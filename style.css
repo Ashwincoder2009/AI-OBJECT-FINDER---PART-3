@@ -1,0 +1,19 @@
+body{
+background-size:cover;
+}
+.heading{
+font-size:25px;
+width:100%;
+margin:0;
+}
+#object_text{
+width:500px;
+}
+#status,#object_status{
+font-size:20px;
+}
+canvas{
+box-shadow:5px 5px 5px grey;
+border-radius:20px;
+margin-top:130px;
+}
